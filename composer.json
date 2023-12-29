@@ -1,0 +1,24 @@
+{
+    "name": "myapp/app",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "haejoon06",
+            "email": "fajriyanuar1@gmail.com"
+        }
+    ],
+    
+    "config": {
+        "platform": {
+            "php": "8.2.0"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
