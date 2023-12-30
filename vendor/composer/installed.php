@@ -1,13 +1,13 @@
 <?php return array(
     'root' => array(
         'name' => 'myapp/app',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '99bfe23c9afa36bfb22e7f6125ce817212ea1531',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'dev' => false,
+        'dev' => true,
     ),
     'versions' => array(
         'ezyang/htmlpurifier' => array(
@@ -47,9 +47,9 @@
             'dev_requirement' => false,
         ),
         'myapp/app' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '99bfe23c9afa36bfb22e7f6125ce817212ea1531',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
