@@ -3,7 +3,7 @@
         'name' => 'myapp/app',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '1845de89a0e605643941becd72fda75b4d898b5e',
+        'reference' => '21b38af69f2440057116d970215961d155ba2b19',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -49,7 +49,7 @@
         'myapp/app' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '1845de89a0e605643941becd72fda75b4d898b5e',
+            'reference' => '21b38af69f2440057116d970215961d155ba2b19',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
